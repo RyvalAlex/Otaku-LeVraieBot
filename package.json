@@ -1,0 +1,25 @@
+{
+  "name": "kk",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.3.2",
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "moment": "^2.21.0",
+    "ms": "^2.1.1",
+    "random-puppy": "^1.1.0",
+    "snekfetch": "^3.6.4",
+    "superagent": "^3.8.2",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "description": "Bot par Kawaii Alex",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "help"
+  },
+  "author": "",
+  "license": "ISC"
+}
